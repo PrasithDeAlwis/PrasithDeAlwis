@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+
 <h1 align="center">Hi 👋, I'm Prasith De Alwis</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
